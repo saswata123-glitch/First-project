@@ -6,4 +6,4 @@ with open ("file text" , "r") as f:
        if hash == n:
          print("[+]hash has been decoded :", lines)
          break
-   f.close()
+  
